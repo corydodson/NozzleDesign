@@ -12,4 +12,4 @@ This git contains a series of MATLAB scripts that serve as the basis to generate
 
   The thermodynamic properties are calculated from the NASA 9-coefficient polynomial format, but are limited to species that contain C, H, N, O, Ar, and/or Xe.
 
-To execute the code, open testingNozzle and enter desired parameters.
+To execute the code: load thermInfo.mat, open testingNozzle, and change desired parameters.
